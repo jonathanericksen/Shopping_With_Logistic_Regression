@@ -1,11 +1,13 @@
-# Module Three Final Project
+Note: The following README outlines a project conducted by the fictitious consulting firm, JE Consulting (me), for a fictitious political consulting firm, Trace Political. This hypothetical scenario was used to establish a narrative around the project's intent and purpose. The accompanying jupyter notebook contained within the repository walks the viewer through the steps used to complete the project along with explanations of the code and methodology behind each step. Below is a summary of the project's intent and findings.
+
+# Shopping With Logistic Regression
 
 For: Amazon Inc.
 
 By: Jonathan E Ericksen, JE Consulting
 
 ## Background
-> Amazon, with it's busy agenda and lackluster talent inside their data science teams, has decided to contract externally with JE Consulting to help develop a classification model. The intent for this model is to predict a shoppers propensity to make a purchase during a shopping session using real time user analytics. Amazon intends to use this model to determine when to offer last minute discounts on products within their in an attempt to entice shoppers who are not exhibiting characteristics of purchasing products to reverse course and make a purchase. 
+> Amazon, with it's busy agenda and lackluster talent within their data science teams (JK!), has decided to contract externally with JE Consulting to help develop a classification model. The intent for this model is to predict a shoppers propensity to make a purchase during a shopping session using real time user analytics. Amazon intends to use this model to determine when to offer last minute discounts on products within their in an attempt to entice shoppers who are not exhibiting characteristics of purchasing products to reverse course and make a purchase. 
 
 ## Objective:
 > The objective for JE Consultants is to fit the best model possible with the provided data. The resulting model will in turn be nested in the backend of Amazon's ecommerce site and used to make decisions on whether or not to trigger pre-constructed promotions for differing products. Should the model determine a current shopper is showing no propensity of making a purchase, Amazon will trigger a promotional offering to entice a transaction.
